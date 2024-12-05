@@ -1,0 +1,20 @@
+[
+    {
+        "name": "김철수",
+        "email": "test1@test.com",
+        "tel": "01012345678",
+        "joined": "2024-12-01"
+    },
+    {
+        "name": "김영희",
+        "email": "test2@test.com",
+        "tel": "01023456789",
+        "joined": "2024-12-02"
+    },
+    {
+        "name": "김영수",
+        "email": "test3@test.com",
+        "tel": "01034567890",
+        "joined": "2024-12-03"
+    }
+]
